@@ -1,4 +1,4 @@
-# Hi, I'm Black Ghost 👋
+# Hi, I'm Black Ghost7 👋
 
 Aspiring penetration tester focused on Linux security, privacy, and defensive tooling.
 
