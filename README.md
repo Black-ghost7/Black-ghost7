@@ -6,7 +6,7 @@ Aspiring penetration tester focused on Linux security, privacy, and defensive to
 
 - **[secure-vault](https://github.com/Black-ghost7/secure-vault)**: offline file and text encryption app for Android (Flutter, AES-256-GCM, Scrypt)
 - **[kali-ghost-shield](https://github.com/Black-ghost7/kali-ghost-shield)**: defense and privacy hardening for Kali Linux (Python)
-- **[tor-dark](https://github.com/Black-ghost7/tor-dark)**: multi-location anonymity automation over Tor (Shell)
+- **[wraith](https://github.com/Black-ghost7/wraith)**: multi-location anonymity automation over Tor (Shell)
 - **[ps-ghost](https://github.com/Black-ghost7/ps-ghost)**: password generator (Python)
 
 ## Skills
